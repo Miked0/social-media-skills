@@ -2,7 +2,7 @@
 name: sid-brand-sms
 description: "Brand profile and writing rules for Solution Innova Digital (SID), a Brazilian digital-solutions business, used when writing or planning social media content for the SID Instagram account (@solutioninnovadigital) or the SID site. Use when the user mentions 'SID,' 'Solution Innova Digital,' 'solutioninnovadigital,' 'conteúdo da SID,' 'post da SID,' 'carrossel da SID,' 'reels da SID,' or asks for social media copy in Portuguese for a small business or digital-solutions offer. Sets the language (pt-BR), voice, audience, content pillars, services and visual identity that the other social media skills must follow for SID."
 metadata:
-  version: 1.0.0
+  version: 1.1.0
 ---
 
 # SID Brand Profile
@@ -72,6 +72,25 @@ Do not promote gestão de tráfego or soluções com IA publicly yet.
 - Feel: limpo, moderno e humano. Mais próximo do cliente, menos "tech frio".
 - No cartoon or childish illustration. No dark pixel-art code aesthetics for SID.
 
+## Feed & Story Art Structure (approved 2026-11-15)
+
+Never use a plain flat background. Flat fills make every post look like the last one and tire the audience.
+
+- **Rotate backgrounds inside each carousel**, never two equal slides in a row. Five approved backgrounds:
+  - **aurora**: roxo gradient (#2B0A57 to #6516BD to #8336E0) with menta and lilás light spots
+  - **órbita**: noite (#17141D) with a strong roxo glow and a faint menta glow
+  - **papel**: light (white to névoa #F3F0F8 to lilás) with menta and lilás light spots
+  - **menta**: menta gradient (#A6F5DE to #68E0BC to #3FCBA3) with white light and roxo text
+  - **profundo**: noite to roxo profundo with a violet glow
+- Every background gets depth: gradient, 2 soft light spots in different corners per slide, a faded dot or line grid, and light film grain.
+- **Ghost element**: a giant outlined number or letter tied to the slide (the step number, A/B, ?, 500) bleeding off the edge at low opacity.
+- **Continuity line**: one dotted line that crosses all slides of a carousel, so each slide visually points to the next.
+- **One scene per slide**: a speech bubble with the customer's question, tilted UI mockups (form, WhatsApp button, site, brand kit, dashboard, post grid), glass cards with rounded corners. Slight rotation (1 to 3 degrees) on cards and mockups.
+- On the menta background, highlight words with a roxo marker band instead of colored text.
+- Keep fixed: logo top left, @solutioninnovadigital top right, footer with action label and progress bar, 80 px safe margin, Big Shoulders Display titles and Manrope text.
+- Stories: same backgrounds, mint corner brackets marking where the Instagram sticker goes, and text between y 250 and y 1570.
+- Export as JPG (quality about 93). Grain makes PNG files too heavy.
+
 ## Reels & Video Rules
 
 - Reels must read as **adult and professional**, never childish or meme-like.
@@ -90,6 +109,7 @@ Before delivering SID content, check:
 - [ ] Ends with one clear next step (WhatsApp, link na bio, or comment)
 - [ ] Uses the correct name "Solution Innova Digital" and no invented facts
 - [ ] Reel: energetic, adult tone, reel-native structure
+- [ ] Art: no flat backgrounds, backgrounds rotate slide to slide, one scene per slide
 
 ## Boundaries
 
